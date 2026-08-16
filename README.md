@@ -86,3 +86,12 @@ R = S × l / (100 - l)
 8. **Log and Calculate:** Document lengths l and 100 - l, and calculate the unknown element parameter value using the provided equation.
 
 ---
+
+### 📊 Observations Log Book
+
+| Trial Sequence | Known Resistance S (Ω) | Null Balance Point D (cm) | Measured Length l (cm) | Inverse Length (100 - l) (cm) | Calculated Unknown Resistance R (Ω) |
+| :------------: | :--------------------: | :-----------------------: | :--------------------: | :--------------------------: | :---------------------------------: |
+|       1        |          10.0          |           50.0            |          50.0          |             50.0             |                10.00                |
+|       2        |          20.0          |           66.0            |          37.0          |             63.0             |                11.73                |
+
+---
