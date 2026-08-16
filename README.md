@@ -1,6 +1,6 @@
 # 🔬 Meter Bridge (Slide Wire Bridge) Simulator
 
-A modern, responsive web-based physics simulator developed using **Vite**, **Tailwind CSS**, and vanilla JavaScript modules. This interactive application mimics a physical laboratory apparatus setup, enabling students and researchers to calculate an unknown electrical resistance value using the classical **Wheatstone Bridge Balanced Principle**.
+A modern, responsive web-based physics simulator developed using **Vite**, **vanilla** and **JavaScript modules**. This interactive application mimics a physical laboratory apparatus setup, enabling students and researchers to calculate an unknown electrical resistance value using the classical **Wheatstone Bridge Balanced Principle**.
 
 ---
 
