@@ -9,9 +9,16 @@ svg {touch-action: none;
   transform-box: fill-box;
     }
 #mass, #jslider,#jkeyMove, #colband{cursor: grab;}
-h1,h2,h3 {
-color: #0d6efd;
+/* Update this exact block inside your style.css file */
+h1, h2, h3 {
+  color: #0d6efd !important;
+  font-family: sans-serif !important;
 }
+
+h1, h3 {
+  text-align: center !important;
+}
+
 .jgrab{
  cursor: grab;   
 }
