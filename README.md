@@ -29,7 +29,7 @@ npm run dev
 Once compilation ends, click or copy the terminal's provided local link (typically `http://localhost:5173`) to view and interact with the application.
 
 ### 📦 Building for Web Deployment
-To compile your decoupled JavaScript files (`main.js`, `simul.js`, `jas.js`, `contact.js`, `imgs.js`), style configurations (`style.css`), and asset paths into a singular optimized production directory (`/dist`), run:
+To compile your decoupled JavaScript files (`main.js`, `simul.js`, `jas.js`, `contact.js`, `imgs.js`), style configurations (`style.css`), and asset paths into a singular optimized production directory (`/meterbrdg`), run:
 ```bash
 npm run build
 ```
