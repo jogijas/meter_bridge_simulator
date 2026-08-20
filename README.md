@@ -2,6 +2,8 @@
 
 A modern, responsive web-based physics simulator developed using **Vite**, **vanilla** and **JavaScript modules**. This interactive application mimics a physical laboratory apparatus setup, enabling students and researchers to calculate an unknown electrical resistance value using the classical **Wheatstone Bridge Balanced Principle**.
 
+🔗 **[Click Here to Open the Live Simulator App!](https://github.io)**
+
 ---
 
 ## 💻 Technical Setup Guide
@@ -93,5 +95,12 @@ R = S × l / (100 - l)
 | :------------: | :--------------------: | :-----------------------: | :--------------------: | :--------------------------: | :---------------------------------: |
 |       1        |          10.0          |           50.0            |          50.0          |             50.0             |                10.00                |
 |       2        |          20.0          |           66.0            |          37.0          |             63.0             |                11.73                |
+
+---
+
+## 🔍 Target Search Keywords & Topics
+* **Primary Focus:** `meter bridge simulator`, `slide wire bridge online`, `wheatstone bridge simulation`, `virtual physics lab`
+* **Experimental Topics:** `calculate unknown resistance experiment`, `meter bridge balancing length`, `galvanometer zero deflection tool`
+* **Technical Tags:** `vite-physics-app`, `javascript-lab-simulator`, `vue-interactive-experiment`
 
 ---
