@@ -2,7 +2,7 @@
 
 A modern, responsive web-based physics simulator developed using **Vite**, **vanilla** and **JavaScript modules**. This interactive application mimics a physical laboratory apparatus setup, enabling students and researchers to calculate an unknown electrical resistance value using the classical **Wheatstone Bridge Balanced Principle**.
 
-🔗 **[Click Here to Open the Live Simulator App!](https://github.io)**
+🔗 **[Click Here to Open the Live Simulator App!](https://jogijas.github.io/meter_bridge_simulator/))**
 
 ---
 
